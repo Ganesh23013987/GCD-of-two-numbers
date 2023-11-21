@@ -43,6 +43,5 @@ def gcd():
 
 
 ## Result:
-Then, the program code is successfully executed.
-## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
+Then, the program code is successfully executed.
